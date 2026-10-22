@@ -1,0 +1,4 @@
+# Compiled C files
+*.out
+*.o
+/app
